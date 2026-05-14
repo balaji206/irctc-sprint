@@ -285,11 +285,9 @@ Cancellation charges, refund timelines, and TDR filing rules are spread across m
 
 I explored the cancellation and refund section after reviewing booked ticket history and TDR information pages.
 
-
 ## Screenshot or description
 
 Refund policies were displayed as long text-heavy paragraphs with multiple links and no refund calculator or simplified explanation.
-
 
 ## Current flow — step by step
 
